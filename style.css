@@ -1,0 +1,72 @@
+
+body {
+	background-color: #88A2AA;
+	color: #536B78;
+	font-size: 20px;
+	line-height: 2;
+	letter-spacing: 0,5px;
+	font-family:'Nanum Myeongjo', serif;
+}
+
+h1,h2{
+	font-family: 'Cormorant Garamond', serif;
+}
+
+ul {
+	display: flex;
+	justify-content: space-between;
+}
+
+li {
+	list-style: none;
+}
+
+.profile0309{
+	width: 125px;
+	height:140px;
+	border-radius: 40%;
+	border: 5px solid white;
+}
+
+.pich1{
+	margin: 50px; 
+	padding: 50px; 
+	background-color: #CEE5F2;
+	border-radius: 2%;
+	box-shadow: 2px 4px 10px black;
+
+}
+
+.pich2{
+	margin: 50px; 
+	padding: 50px;
+	background-color: #CEE5F2;
+	border-radius: 2%;
+	box-shadow: 2px 4px 10px black;
+}
+
+.pich3{
+	margin: 50px; 
+	padding: 50px;
+	background-color: #CEE5F2;
+	border-radius: 2%;
+	box-shadow: 2px 4px 10px black;
+}
+
+.pich4{
+	margin: 50px; 
+	padding: 50px;
+	background-color: #CEE5F2;
+	border-radius: 2%;
+	box-shadow: 2px 4px 10px black;
+}
+
+.cards {
+  display: flex;
+	flex-wrap: wrap;
+}
+.card{
+  flex-basis: 250px;
+	flex-grow: 1;
+	margin: 10px;
+}
